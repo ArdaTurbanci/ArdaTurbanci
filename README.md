@@ -1,7 +1,7 @@
 ## Hi I'm Arda 🐢
 
 📗Recent High School Graduate<br>
-👨‍💻Interested in Web Security and Network Security
+👨‍💻Interested in Web Security, Network Security and Ethical Hacking
 
 
 ## 🌐 Socials:
@@ -16,5 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArdaTurbanci&icon=7&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
