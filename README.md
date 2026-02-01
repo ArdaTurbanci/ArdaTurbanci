@@ -22,9 +22,7 @@ I am a motivated cybersecurity enthusiast with a strong interest in identifying 
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaTurbanci&theme=blue-green&hide_border=true&include_all_commits=true)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ArdaTurbanci&theme=blue-green&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaTurbanci&theme=blue-green&hide_border=true&layout=compact)
 
 ---
 
