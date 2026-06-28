@@ -1,15 +1,12 @@
 ## Hi, I'm Arda 🐢
 
-🎓 Recent High School Graduate  
-🔐 Aspiring Cybersecurity Specialist  
 💻 Focused on Web Security, Network Security & Ethical Hacking  
 
-I am a motivated cybersecurity enthusiast with a strong interest in identifying vulnerabilities, securing systems, and understanding how modern networks and web applications work from a security perspective. I actively improve my skills through hands-on practice, scripting, and continuous learning in offensive and defensive security concepts.
+I actively improve my skills through hands-on practice, scripting, and continuous learning in offensive and defensive security concepts.
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardaturbanci)
 
 ---
 
