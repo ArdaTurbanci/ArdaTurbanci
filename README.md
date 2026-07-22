@@ -20,7 +20,7 @@ I actively improve my skills through hands-on practice, scripting, and continuou
 ---
 
 ## 📊 GitHub Profile View Counter
-![GitHub Profile View Counter]([https://nirzak-streak-stats.vercel.app/?user=ArdaTurbanci&theme=blue-green&hide_border=true](https://komarev.com/ghpvc/?username=ardaturbanci&color=green&style=for-the-badge&abbreviated=true))
+![GitHub Profile View Counter](https://komarev.com/ghpvc/?username=ardaturbanci&color=green&style=for-the-badge&abbreviated=true))
 
 ---
 
